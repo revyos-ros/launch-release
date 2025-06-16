@@ -2,6 +2,12 @@
 Changelog for package launch_pytest
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.9 (2025-06-06)
+------------------
+
+1.0.8 (2025-03-25)
+------------------
+
 1.0.7 (2024-11-25)
 ------------------
 * Drop unused data_files entry for example_processes (`#680 <https://github.com/ros2/launch/issues/680>`_) (`#791 <https://github.com/ros2/launch/issues/791>`_)
