@@ -1,3 +1,35 @@
+## launch (humble) - 1.0.9-1
+
+The packages in the `launch` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble launch --override-release-repository-push-url git@github.com:revyos-ros/launch-release.git` on `Mon, 16 Jun 2025 04:54:48 -0000`
+
+These packages were released:
+- `launch`
+- `launch_pytest`
+- `launch_testing`
+- `launch_testing_ament_cmake`
+- `launch_xml`
+- `launch_yaml`
+
+These packages were explicitly ignored:
+- `test_launch_testing`
+
+Version of package(s) in repository `launch`:
+
+- upstream repository: https://github.com/ros2/launch.git
+- release repository: https://github.com/revyos-ros/launch-release.git
+- rosdistro version: `1.0.9-1`
+- old version: `1.0.7-1`
+- new version: `1.0.9-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## launch (jazzy) - 3.4.3-1
 
 The packages in the `launch` repository were released into the `jazzy` distro by running `/tmp/venv/bin/bloom-release -r jazzy launch --override-release-repository-push-url git@github.com:revyos-ros/launch-release.git` on `Thu, 19 Dec 2024 03:13:46 -0000`
